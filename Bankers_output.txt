@@ -1,0 +1,65 @@
+Enter number of resources ?
+3
+
+Enter number of instances of A allocated to P0 
+5
+
+Enter number of instances of B allocated to P0 
+4
+
+Enter number of instances of C allocated to P0 
+2
+
+Enter number of instances of A allocated to P1 
+3
+
+Enter number of instances of B allocated to P1 
+3
+
+Enter number of instances of C allocated to P1 
+2
+
+Enter maximum instances of A required for P0 
+8
+
+Enter maximum instances of B required for P0 
+5
+
+Enter maximum instances of C required for P0 
+3
+
+Enter maximum instances of A required for P1 
+5
+
+Enter maximum instances of B required for P1 
+5
+
+Enter maximum instances of C required for P1 
+3
+Enter the total instances of resource A 
+10
+Enter the total instances of resource B 
+8
+Enter the total instances of resource C 
+5
+
+
+Allocation Matrix
+		 A	 B	 C
+ Process P0	 5	 4	 2
+ Process P1	 3	 3	 2
+
+Need Matrix
+		 A	 B	 C
+ Process P0	 3	 1	 1
+ Process P1	 2	 2	 1
+
+Maximum Matrix
+		 A	 B	 C
+ Process P0	 8	 5	 3
+ Process P1	 5	 5	 3
+
+Instances of resources available
+	 A	 B	 C
+	 2	 1	 1
+
